@@ -2,7 +2,7 @@
   "name": "linter-psalm",
   "main": "./lib/main.js",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lint PHP on the fly, using psalm",
   "repository": "https://github.com/albert200000/linter-psalm",
   "license": "MIT",
